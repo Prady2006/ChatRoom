@@ -19,7 +19,7 @@ mydict = {}
 #             if len(mydict[user1][0].recv(1024)) > 0:
 #                 data = mydict[user1][0].recv(1024).decode()
 #                 if data == 'quit':
-#                     print(" Connection terminated by server ..")
+#                     print(" Connection terminated by server ...")
 #                     conn.close()
 #                     break
 #                 else :
